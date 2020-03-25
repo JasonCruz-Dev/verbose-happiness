@@ -168,7 +168,7 @@ header {
 .navbar {
   display: inline-flex;
   width: 15%;
-  margin-top: 5%;
+  /* margin-top: 5%; */
   margin-left: 12%;
   /* justify-content: center; */
 }
